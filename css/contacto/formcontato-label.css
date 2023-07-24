@@ -1,0 +1,17 @@
+.formcontato__label{
+    display: block;
+    width: 100%;
+    border: 2px solid silver;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    padding: 1rem 0;
+    position: relative;    
+    box-sizing: border-box;
+    transition: .5s;
+}
+
+.formcontato__label.focus{
+
+border-color: var(--color-menu);
+
+}

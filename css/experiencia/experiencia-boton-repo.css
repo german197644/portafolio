@@ -1,0 +1,16 @@
+.experiencia__botao--repo{
+    color: var(--color_boton);
+    border: 1px solid var(--color_boton);
+    background-color: transparent;
+
+    margin: o auto;
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+.experiencia__botao--repo:hover{
+    color: white;
+    background-color: var(--color_boton);
+    border: 1px solid var(--color_boton);
+}

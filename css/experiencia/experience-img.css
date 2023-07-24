@@ -1,0 +1,11 @@
+.experience__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media screen and (min-width:1024px) {
+    .experience__img {
+        max-width: 600px;
+    }
+}

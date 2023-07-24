@@ -1,0 +1,21 @@
+.formcontato__span {
+    color: silver;
+    font: 1rem/1rem var(--mifuente);
+    padding: 0 1rem;
+    position: absolute;
+    top: 1.4rem;
+    left: 0;
+    transition: .5s;
+}
+
+.formcontato__span.focus {
+    color: var(--color-menu);    
+}
+
+.formcontato__span.top {
+    left: 3px;
+    top: -10px;
+    font-size: .75rem;
+    background: var(--color-de-fondo-2);
+    padding: 0 5px;
+}

@@ -1,0 +1,14 @@
+.experience__box{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+/* pc */
+@media screen and (min-width:1024px) {
+    .experience__box{
+        flex-direction: row;
+        align-items: center;
+    }
+}

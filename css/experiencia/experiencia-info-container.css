@@ -1,0 +1,10 @@
+.experience__info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width:1024px) {
+    .experience__info-container{
+        margin-left: 1.5rem;
+    }
+}

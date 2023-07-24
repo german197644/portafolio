@@ -1,0 +1,9 @@
+.title__profile{
+    height: 25vw;
+    width: 25vw;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;    
+    object-fit: cover; 
+    filter: drop-shadow(0 0 5px var(--color-foto-degrade));   
+}

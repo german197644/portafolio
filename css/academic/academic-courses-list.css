@@ -1,0 +1,10 @@
+.academic__courses__list {
+    padding: 0;
+}
+
+@media screen and (min-width:1024px) {
+    .academic__courses__list {
+        display: flex;
+        flex-direction: column;    
+    }
+}

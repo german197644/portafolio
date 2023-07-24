@@ -1,0 +1,14 @@
+.experience{
+    margin-top: 2rem;
+    padding: 0 2rem;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .experience{        
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        padding-left: var(--padding-izq);
+        padding-right: var(--padding-der);     
+    }
+} 

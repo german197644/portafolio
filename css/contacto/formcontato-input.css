@@ -1,0 +1,12 @@
+.formcontato__input{
+    width: 100%;    
+    height: 1.75rem;
+    padding: 0 .5rem;    
+
+    /*reposo*/
+    display: block;    
+    border: none;
+    background: transparent;
+    outline: none;
+    font: 1rem/1rem var(--mifuente);    
+}

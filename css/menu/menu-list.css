@@ -1,0 +1,22 @@
+.menu__list{
+
+    display: flex;
+    padding-left: 0;
+    align-items: flex-end;    
+}
+
+
+/*
+@media screen and (min-width: 768px) {
+    .menu__list{
+        display: flex;
+    }
+}
+*/
+
+@media screen and (min-width: 1024px) {
+    .menu__list{
+        align-items: center;
+    }
+}
+

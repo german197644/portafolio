@@ -1,0 +1,14 @@
+.tudo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .tudo {
+        /*padding-left: calc((100% - 940px)/2);
+        padding-right: calc((100% - 940px)/2);*/
+    }
+
+}

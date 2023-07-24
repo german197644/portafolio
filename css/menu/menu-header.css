@@ -1,0 +1,19 @@
+.menu__header {
+    display: flex;    
+    justify-content: left;
+    align-items: center;
+    width: fit-content;
+}
+
+.menu__header img{
+    
+    height: 20px;
+    width: 20px;        
+    /*
+    position: relative;
+    top: .5rem;
+    padding: 0 .25rem 0 .25rem;
+    */
+}
+
+

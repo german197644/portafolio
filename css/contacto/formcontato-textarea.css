@@ -1,0 +1,16 @@
+.formcontato__textarea{    
+    width: 100%;
+    resize: none;    
+    margin-bottom: 1rem;            
+    /*padding: .5rem 0; */
+    font: 1rem/1rem var(--mifuente);
+    padding: 0 .5rem; 
+    
+    /*reposo*/
+    display: block;
+    border: none;
+    background: transparent;
+    outline: none;
+
+}
+

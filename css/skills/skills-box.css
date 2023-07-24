@@ -1,0 +1,34 @@
+.skills__box {
+    background-color: white;
+    width: calc((100% - 65px) / 2);
+    height: 120px;
+    border-radius: 5px;
+    margin: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    transition: 1s;
+    box-sizing: border-box;
+}
+
+.skills__box:hover {
+    transform: scale(1.5);
+    z-index: 99;
+}
+
+
+.skills__box ul {
+    padding: 0;
+    padding: .3rem;
+    margin: 0 0 0 .3rem;
+    align-self: flex-end;
+}
+
+
+@media screen and (min-width: 768px) {
+    .skills__box {
+        width: 45%;
+        /*margin-bottom: 2rem;
+        margin-right: 1rem;*/
+    }
+
+}

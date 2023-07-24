@@ -1,0 +1,16 @@
+
+.hobbies__line{
+    width: 100%;
+    height: auto;
+    display: flex;        
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /*flex-flow: wrap;*/
+    box-sizing: content-box; 
+}
+
+@media screen and (min-width: 1024px) {
+    .hobbies__line{        
+        flex-wrap: nowrap;        
+    }
+} 

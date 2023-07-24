@@ -1,0 +1,6 @@
+.title__bio {
+    color: var(--color-letra-1);    
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: justify;    
+}

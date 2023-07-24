@@ -1,0 +1,16 @@
+
+.skills__line{                
+    width: 100%;
+    height: auto;
+    display: flex;    
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .skills__line{        
+        flex-wrap: nowrap;
+        /*justify-content: space-between; */
+    }
+} 

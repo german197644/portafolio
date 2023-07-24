@@ -1,0 +1,14 @@
+.title{
+    margin-top: 2rem;    
+    padding: 0 2rem;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .title{
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: var(--padding-izq);
+        padding-right: var(--padding-der);
+    }
+} 

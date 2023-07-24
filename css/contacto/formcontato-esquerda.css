@@ -1,0 +1,11 @@
+.formcontato--esquerda{
+    width: 40%;
+    height: auto;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    border: 0px solid var(--color-borde_1);
+    border-radius: 5px;    
+    padding: 5px;
+    background: linear-gradient(gray, #9198e5);
+}

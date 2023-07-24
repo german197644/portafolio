@@ -1,0 +1,4 @@
+.title__subsection{
+    display: flex;
+    flex-direction: column;    
+}

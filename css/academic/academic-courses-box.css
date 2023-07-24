@@ -1,0 +1,11 @@
+.academic__courses__box {
+    width: 100%;    
+}
+
+@media screen and (min-width:768px) {
+    .academic__courses__box {                
+        align-items: center;
+        padding: .3rem;        
+        margin: .2rem;
+    }
+}

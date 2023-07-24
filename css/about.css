@@ -1,0 +1,15 @@
+.about{
+    background-color: var(--color-de-fondo-2);    
+    margin: 2rem 0 0 0;
+    padding: 0 2rem;
+} 
+
+@media screen and (min-width: 1024px) {
+    .about{
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        padding-left: var(--padding-izq);
+        padding-right: var(--padding-der);        
+    }
+} 
+

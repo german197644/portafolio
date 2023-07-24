@@ -1,0 +1,13 @@
+.academic__title{
+    padding-top: 1.5rem ;
+    padding-bottom: 1.5rem ;
+    text-align: left;
+}
+
+@media screen and (min-width: 1024px) {
+    .academic__title{
+        text-align: center;
+        padding-bottom: 0;
+    }
+} 
+

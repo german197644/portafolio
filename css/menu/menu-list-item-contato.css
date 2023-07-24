@@ -1,0 +1,25 @@
+/*
+*/
+
+.menu__list__item__contato {
+    font-weight: 100;
+    font-size: .75rem;
+    margin-left: 1rem;
+}
+/*
+.menu__list__item__contato {
+    display: none;
+}
+
+@media screen and (min-width: 0) {
+    .menu__list__item__contato {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .menu__list__item__contato {
+        display: none;
+    }
+}
+*/

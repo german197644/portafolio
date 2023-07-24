@@ -1,0 +1,20 @@
+.formcontato__title{
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+/*
+@media screen and (min-width: 1024px) {
+    .formcontato__title{                         
+        padding: 0;
+        margin: 0;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 400;
+        font-size: 2rem;
+    }
+}
+*/

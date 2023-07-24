@@ -1,0 +1,16 @@
+.hobbies{        
+    margin-top: 2rem;    
+    padding: 0 2rem;
+    margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .hobbies{
+        /*padding-top: 1.5rem;*/        
+        padding-top: 0;
+        padding-bottom: 1.5rem;
+        padding-left: var(--padding-izq);
+        padding-right: var(--padding-der);
+        height: auto;
+    }
+} 

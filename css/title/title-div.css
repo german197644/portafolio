@@ -1,0 +1,21 @@
+/*Mobile primero */
+
+.title__div{
+    display: flex;
+    flex-direction: column;    
+}
+
+/* tabletas */
+@media screen and (min-width:768px) {
+    .title__div{                
+        flex-direction: row-reverse;                
+    }            
+}
+
+/* PC */
+/*@media screen and (min-width:1024px) {
+    .title__div{
+        display: flex;
+        flex-direction: row-reverse;        
+    }        
+}*/

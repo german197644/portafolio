@@ -1,0 +1,17 @@
+.formcontato__contacto{
+    width: 100%;
+    display: flex;
+    flex-direction: column;     
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 1024px) {
+    .formcontato__contacto{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;        
+        border: 0px solid black;
+    }    
+}
